@@ -1,0 +1,2 @@
+# Retail-Reorder-Prediction-and-Customer-Segmentation-with-a-GenAI-Analytics-Console
+This project analyzes grocery retail transaction data to understand how customers shop, what they reorder, and how they can be grouped into meaningful behavioral segments. It builds a machine learning model. The project adds Generative AI features that translate raw numbers into human readable insights and allow managers to query as well.
